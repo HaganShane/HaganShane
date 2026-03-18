@@ -1,6 +1,6 @@
 # Hi, I am Shane Hagan
 
-I am an entry level developer and data enthusiast based outside of Philadelphia, Pennsylvania actively seeking a Data Analyst role. I enjoy building full stack applications and turning data into clear, insights through dashboards and reporting tools.
+I am an entry level developer and data enthusiast based outside of Philadelphia, Pennsylvania actively seeking a Data Analyst role. I enjoy building full stack applications and turning data into clear insights through dashboards and reporting tools.
 
 ---
 
@@ -32,19 +32,19 @@ Power BI, Maven, Git, GitHub, MySQL Workbench, IntelliJ IDEA, JIRA, Confluence
 
 **Personal Finance Tracker**
 A full stack personal finance management application built with Spring Boot and React. Users can track income, expenses, budgets, credit cards, bills, savings goals, and net worth. Includes BCrypt authentication, a REST API backend, and a React frontend with filtering, notifications, and confirmation windows.
-View it at github.com/HaganShane/PersonalFinanceTracker
+View it at [PersonalFinanceTracker](https://github.com/HaganShane/PersonalFinanceTracker)
 
 **Power BI Dashboards**
 A collection of Power BI dashboards covering personal finance, fantasy football, and golf. The personal finance dashboard connects directly to a live MySQL database. The fantasy football dashboard uses a Python script to pull data from the ESPN API and load it into Power BI. The golf dashboard uses a csv dummy file with some accurate (and non-accurate) data for reporting purposes.
-View it at github.com/HaganShane/PowerBI-Dashboards
+View it at [PowerBI-Dashboards](https://github.com/HaganShane/PowerBI-Dashboards)
 
 **The Fitness Shift**
 A health and wellness tracking application built with Java, Spring Boot, MySQL, and Thymeleaf during the TEKsystems Java bootcamp. Tracks workouts, meals, water intake, and sleep.
-View it at github.com/HaganShane/TheFitnessShiftCaseStudy
+View it at [TheFitnessShiftCaseStudy](https://github.com/HaganShane/TheFitnessShiftCaseStudy)
 
 **NBA Fantasy Missed Games Tracker**
 A Python script that connects to the ESPN API to calculate missed games in an NBA fantasy season and outputs the results to Excel.
-View it at github.com/HaganShane/NBA-Fantasy-Missed-Games-Tracker
+View it at [NBA-Fantasy-Missed-Games-Tracker](https://github.com/HaganShane/NBA-Fantasy-Missed-Games-Tracker)
 
 ---
 
