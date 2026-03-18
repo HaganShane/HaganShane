@@ -56,9 +56,9 @@ Bachelor of Science in Computer Science, Minor in Mathematics from Pennsylvania 
 
 ## Connect
 
-X: @hagan_shane \n
-LinkedIn: [shane-hagan](https://www.linkedin.com/in/shane-hagan)
-E-mail: hagan.shane12@gmail.com
+X: @hagan_shane ---
+LinkedIn: [shane-hagan](https://www.linkedin.com/in/shane-hagan) ---
+E-mail: hagan.shane12@gmail.com ---
 Location: Upper Chichester, Pennsylvania
 
 ---
