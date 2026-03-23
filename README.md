@@ -6,9 +6,9 @@ I am an entry level developer and data enthusiast based outside of Philadelphia,
 
 ## About Me
 
-I hold a degree in Computer Science with a minor in Mathematics and completed the TEKsystems Java bootcamp where I built full stack applications using Java and Spring Boot. Since then I have continued building projects on my own to expand my skills across the full data and software stack — from backend APIs and relational databases to front end interfaces and Power BI dashboards.
+I have a degree in Computer Science with a minor in Mathematics and completed the TEKsystems Java bootcamp where I built full stack applications using Java and Spring Boot. Since then I have continued building projects on my own to expand my skills across the full data and software stack — from backend APIs and relational databases to front end interfaces and Power BI dashboards.
 
-I am passionate about working with data, solving real problems, and writing clean organized code.
+I enjoy working with data, solving real problems, and writing clean organized code.
 
 ---
 
