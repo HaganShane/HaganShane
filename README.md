@@ -43,7 +43,7 @@ A full stack application built with Spring Boot and React that connects to a liv
 
 **The Fitness Shift**
 A health and wellness tracking application built with Java, Spring Boot, and MySQL. Built this during the TEKsystems bootcamp — it covers workouts, meals, water intake, and sleep tracking, and was a good foundation for understanding how relational databases and backend APIs fit together.
-View TheFitnessShiftCaseStudy](https://github.com/HaganShane/TheFitnessShiftCaseStudy)
+[View TheFitnessShiftCaseStudy](https://github.com/HaganShane/TheFitnessShiftCaseStudy)
 
 ---
 
