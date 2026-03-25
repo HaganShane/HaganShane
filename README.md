@@ -41,6 +41,10 @@ A Python script I built to connect to the ESPN API and calculate missed games ac
 A full stack application built with Spring Boot and React that connects to a live MySQL database and feeds into one of my Power BI dashboards. Tracks income, expenses, budgets, and net worth. Built this to have a real database to work with for the dashboard side of things.
 [View PersonalFinanceTracker](https://github.com/HaganShane/PersonalFinanceTracker)
 
+**The Fitness Shift**
+A health and wellness tracking application built with Java, Spring Boot, and MySQL. Built this during the TEKsystems bootcamp — it covers workouts, meals, water intake, and sleep tracking, and was a good foundation for understanding how relational databases and backend APIs fit together.
+View TheFitnessShiftCaseStudy](https://github.com/HaganShane/TheFitnessShiftCaseStudy)
+
 ---
 
 ## Education
