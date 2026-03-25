@@ -1,69 +1,56 @@
-# Hi, I am Shane Hagan
+# Hi, I'm Shane Hagan
 
-I am an entry level developer and data enthusiast based outside of Philadelphia, Pennsylvania actively seeking a Data Analyst role. I enjoy building full stack applications and turning data into clear insights through dashboards and reporting tools.
+I'm a Technical Analyst based outside of Philadelphia, Pennsylvania. I work with data, dig into problems, and build things that make information easier to understand and act on.
+
+I'm currently open to Data Analyst and Technical Analyst roles.
 
 ---
 
-## About Me
+## What I Do
 
-I have a degree in Computer Science with a minor in Mathematics and completed the TEKsystems Java bootcamp where I built full stack applications using Java and Spring Boot. Since then I have continued building projects on my own to expand my skills across the full data and software stack — from backend APIs and relational databases to front end interfaces and Power BI dashboards.
+In my current role at Suvoda I manage a Jira-based request queue, execute and modify Python scripts to handle backend data operations, and investigate application errors and issues reported by users. A lot of my day is being handed a problem and figuring out the best way to solve it — whether that's running an existing script, modifying it, or building something new for a situation we haven't seen before.
 
-I enjoy working with data, solving real problems, and writing clean organized code.
+Outside of my day-to-day I've been building out Power BI dashboards connected to live SQL databases and writing Python scripts for data pulling and automation. I like taking a dataset and turning it into something visual that actually tells a story — something anyone can look at and understand without needing a technical background.
 
 ---
 
 ## Skills
 
 **Languages**
-Java, Python, JavaScript, HTML, CSS, SQL
-
-**Frameworks and Libraries**
-Spring Boot, React, Spring Data JPA
-
-**Databases**
-MySQL
+Python, SQL, Java, JavaScript, HTML, CSS
 
 **Tools and Platforms**
-Power BI, Maven, Git, GitHub, MySQL Workbench, IntelliJ IDEA, JIRA, Confluence
+Power BI, MySQL, Git, GitHub, JIRA, Confluence, MySQL Workbench, IntelliJ IDEA
+
+**Frameworks**
+Spring Boot, React
 
 ---
 
 ## Featured Projects
 
-**Personal Finance Tracker**
-A full stack personal finance management application built with Spring Boot and React. Users can track income, expenses, budgets, credit cards, bills, savings goals, and net worth. Includes BCrypt authentication, a REST API backend, and a React frontend with filtering, notifications, and confirmation windows.
-View it at [PersonalFinanceTracker](https://github.com/HaganShane/PersonalFinanceTracker)
-
 **Power BI Dashboards**
-A collection of Power BI dashboards covering personal finance, fantasy football, and golf. The personal finance dashboard connects directly to a live MySQL database. The fantasy football dashboard uses a Python script to pull data from the ESPN API and load it into Power BI. The golf dashboard uses a csv dummy file with some accurate (and non-accurate) data for reporting purposes.
-View it at [PowerBI-Dashboards](https://github.com/HaganShane/PowerBI-Dashboards)
-
-**The Fitness Shift**
-A health and wellness tracking application built with Java, Spring Boot, MySQL, and Thymeleaf during the TEKsystems Java bootcamp. Tracks workouts, meals, water intake, and sleep.
-View it at [TheFitnessShiftCaseStudy](https://github.com/HaganShane/TheFitnessShiftCaseStudy)
+A collection of dashboards I built across a few different topics. One connects directly to a live MySQL database, one uses a Python script to pull data from the ESPN API and load it into Power BI, and one is a more straightforward CSV-based dashboard. Each one was a chance to work through a different data pipeline and figure out how to present the data in a way that actually makes sense.
+[View PowerBI-Dashboards](https://github.com/HaganShane/PowerBI-Dashboards)
 
 **NBA Fantasy Missed Games Tracker**
-A Python script that connects to the ESPN API to calculate missed games in an NBA fantasy season and outputs the results to Excel.
-View it at [NBA-Fantasy-Missed-Games-Tracker](https://github.com/HaganShane/NBA-Fantasy-Missed-Games-Tracker)
+A Python script I built to connect to the ESPN API and calculate missed games across an NBA fantasy season, with output to Excel. Started as something I actually needed for my own league and turned into a good exercise in API calls, data handling, and automation.
+[View NBA-Fantasy-Missed-Games-Tracker](https://github.com/HaganShane/NBA-Fantasy-Missed-Games-Tracker)
+
+**Personal Finance Tracker**
+A full stack application built with Spring Boot and React that connects to a live MySQL database and feeds into one of my Power BI dashboards. Tracks income, expenses, budgets, and net worth. Built this to have a real database to work with for the dashboard side of things.
+[View PersonalFinanceTracker](https://github.com/HaganShane/PersonalFinanceTracker)
 
 ---
 
 ## Education
 
-Bachelor of Science in Computer Science, Minor in Mathematics from Pennsylvania State University (2016-2021)
+B.S. Computer Science, Minor in Mathematics — Pennsylvania State University
 
 ---
 
 ## Connect
 
-X: @hagan_shane ---
-LinkedIn: [shane-hagan](https://www.linkedin.com/in/shane-hagan) ---
-E-mail: hagan.shane12@gmail.com ---
-Location: Upper Chichester, Pennsylvania
-
----
-
-Currently open to the following opportunities:
-Data Analyst, Technical Analyst, Junior Software Developer, Junior Software Engineer, Full Stack Developer, Business Intelligence Analyst, Reporting Analyst, Database Analyst, Application Engineer, Application Analyst
-
-Feel free to explore my repositories and reach out!
+- LinkedIn: [shane-hagan](https://www.linkedin.com/in/shane-hagan)
+- Email: hagan.shane12@gmail.com
+- Location: Upper Chichester, Pennsylvania
